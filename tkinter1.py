@@ -1,5 +1,5 @@
 from tkinter import *
-
+print("hello")
 window = Tk()
 # window.title("AMIN")
 # window.minsize(400,300)
